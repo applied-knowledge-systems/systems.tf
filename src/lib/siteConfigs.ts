@@ -10,5 +10,5 @@ export interface SiteConfig {
 }
 
 export const currentSiteConfig: SiteConfig = {
-	siteResource: 'https://atomicdata.dev/importer/l8mgzvvnm2a',
+	siteResource: 'https://common.terraphim.io/argu-site/86qcyzy28tk',
 };
