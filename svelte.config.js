@@ -1,7 +1,7 @@
 // import adapter from '@sveltejs/adapter-auto';
 // import adapter from '@sveltejs/adapter-static';
 // import adapterGhpages from "svelte-adapter-ghpages";
-import adapterNetlify from '@sveltejs/adapter-netlify';
+import adapter from '@sveltejs/adapter-netlify';
 // import adapter from '@sveltejs/adapter-cloudflare';
 
 import { vitePreprocess } from '@sveltejs/kit/vite';
