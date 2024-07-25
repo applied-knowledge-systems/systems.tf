@@ -2,7 +2,8 @@ name: 'Netlify Previews'
 
 on:
   push:
-    - master
+    branches:
+      - master
 
 jobs:
   deploy:
